@@ -5,26 +5,59 @@ level are not necessarily in order, it's up to your group to decide how they fit
 into your strategy. These are also just suggestion, feel free to change them or
 create your own!
 
-## Must-Haves
+## Home Page
 
-> these are necessary for basic usability
+### Must-Haves
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+#### Title
 
-## Should-Haves
+- [ ] As a user, I can see the logo on the left corner of the nav bar.
 
-> these will complete the user experience, but are not necessary
+> There is a descriptive title, shortly explaining what about a web-page.
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+#### Navbar
 
-## Could-Haves
+- [ ] As a user, I can use the navbar to navigate to different pages
 
-> would be really cool ... if there's time
+> There is a suitable navbar of links with the name of the pages.
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+#### Title with Background Image
+
+- [ ] As a user, I can see the title of the page with the informative image
+      background.
+
+#### Our program section
+
+- [ ] As a user, I can see the description about the program on left of the
+      section with the image on the right of it.
+
+#### Our Impact section
+
+- [ ] As a user, I can see the some statistics data of graduated students and
+      their future opportunities on the separate cards.
+
+#### Our Core values section
+
+-[ ] As a user I can see the details of the values with description of
+community, Diversity & inclusiveness , Commitment and open curriculum.
+
+#### The footer
+
+- [ ] As a user, I want to see the footer with the page onsite address and
+      social media links
+
+### Should-Haves
+
+#### Our success stories section
+
+- [ ] As a user, I can see some of the alumini student's success stories.
+
+#### Our Partners
+
+- [ ] As a user, I can see partner companys of the Hack your Future.
+
+### Could-Haves
+
+#### Support the developers of tomorrow section
+
+#### contact Us Section
