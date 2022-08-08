@@ -66,3 +66,43 @@ community, Diversity & inclusiveness , Commitment and open curriculum.
 #### contact Us Section
 
 - [ ] As a user I can see the contact us form with the map.
+
+## The PROGRAM Page
+
+<!--   Inna -->
+
+### Must Haves
+
+### Should Haves
+
+### Could Haves
+
+## VOLUNTEER Page
+
+<!--  Barnabas-->
+
+### Must Haves
+
+### Should Haves
+
+### Could Haves
+
+## DIGITALENTS Page
+
+<!-- Renjani-->
+
+### Must Haves
+
+### Should Haves
+
+### Could Haves
+
+## ABOUT Page
+
+<!-- Helen-->
+
+### Must Haves
+
+### Should Haves
+
+### Could Haves
