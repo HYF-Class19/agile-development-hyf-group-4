@@ -143,8 +143,6 @@ The site needs a clear logo at the top-left of the page.
 
 <!-- **Body End** -->
 
-<!-- **Footer Starts** -->
-
 ### Footer: HTML
 
 - Section containing organization name, address and social media links.

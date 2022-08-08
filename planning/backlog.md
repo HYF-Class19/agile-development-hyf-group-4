@@ -100,6 +100,7 @@ community, Diversity & inclusiveness , Commitment and open curriculum.
 ## ABOUT Page
 
 <!-- Helen-->
+
 ### Must Haves
 
 #### Title
@@ -107,19 +108,19 @@ community, Diversity & inclusiveness , Commitment and open curriculum.
 - [ ] As a user, I want to see the title of the page
 
 > There is a descriptive title with icons shortly explaining what hack your
-future is about
+> future is about
 
 #### Navbar
 
-- [ ] As a user, I want to see the logo left of the navbar and use it to navigate
-to different pages.
+- [ ] As a user, I want to see the logo left of the navbar and use it to
+      navigate to different pages.
 
 > There is navbar of links with the name of the pages.
 
 #### Main Section
 
 - [ ] As a user, I can see clear description of the mission and aim of hack your
-future organization
+      future organization
 
 > There are icons indicating the proper description of the missions.
 
@@ -141,8 +142,8 @@ future organization
 
 #### List of teams
 
-- [ ] As a user, I can see who are part of the hack your future team with contact
-and picture
+- [ ] As a user, I can see who are part of the hack your future team with
+      contact and picture
 
-> There is a profile picture of the hack your future team with their respective social
-media contacts.
+> There is a profile picture of the hack your future team with their respective
+> social media contacts.
