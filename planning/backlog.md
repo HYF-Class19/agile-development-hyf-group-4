@@ -60,4 +60,9 @@ community, Diversity & inclusiveness , Commitment and open curriculum.
 
 #### Support the developers of tomorrow section
 
+- [ ] As a user, I can see the support us section to donate for the future
+      developers.
+
 #### contact Us Section
+
+- [ ] As a user I can see the contact us form with the map.
