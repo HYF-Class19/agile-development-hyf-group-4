@@ -34,19 +34,19 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 | Day        |   Monday    |   Tuesday   |  Wednesday  |  Thursday   |   Friday    |  Saturday  |   Sunday   |
 | ---------- | :---------: | :---------: | :---------: | :---------: | :---------: | :--------: | :--------: |
-| Anita      | 10am - 3pm  | 10am - 3pm  | 10am - 3pm  | 10am - 3pm  | 10am - 3pm  |     NA     | 12am - 4pm |
+| _Anita_    |   10 - 15   |    10 - 15  |   10 - 15   |   10 - 15   |   10 - 15   |     NA     |   12 - 16  |
 | _Inna_     | 15am - 12pm | 15am - 12pm | 15am - 12pm | 9am - 12pm  | 12am - 12pm | 9am - 12pm |  --------  |
-| Helen      | 13am - 21pm | 13am - 21pm | 13am - 21pm | 13am - 21pm | 15pm - 18pm |     NA     |  --------  |
+| _Helen_    |   13 - 21   |   13 - 21   |   13 - 21   |   13 - 21   |   15 - 18   |     NA     |  --------  |
 | _Barnabas_ |   13 - 23   |   13 - 23   |   13 - 23   |   13 - 23   |   13 - 23   |  13 - 23   |  --------  |
-| Renjani    |  ---------  |  7pm - 9pm  | 8am - 10am  | 7pm - 12pm  | 7pm - 12pm  | 7pm - 12pm | 7am - 10am |
+| _Renjani_  |   13 - 19   |   13 - 19   |   13 - 19   |   13 - 19   |   13 - 19   |     NA     |   12 - 16  |
 
 ### How many hours everyone has per day
 
-- Anita: _6h_; In this week availabilityMon-Fri from 10am - 3pm
+- Anita: _6h_; In this week availability Mon-Fri from 10am - 3pm
 - Inna: _06h_;
 - Helen: _06h_;
 - Barnabas: _10h_;
-- Renjani: _3h_;
+- Renjani: _6h_;
 
 ## Asking for Help
 
