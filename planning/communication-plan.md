@@ -32,13 +32,13 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day        |   Monday    |   Tuesday   |  Wednesday  |  Thursday   |   Friday    |  Saturday  |   Sunday   |
-| ---------- | :---------: | :---------: | :---------: | :---------: | :---------: | :--------: | :--------: |
-| _Anita_    |   10 - 15   |    10 - 15  |   10 - 15   |   10 - 15   |   10 - 15   |     NA     |   12 - 16  |
-| _Inna_     | 15am - 12pm | 15am - 12pm | 15am - 12pm | 9am - 12pm  | 12am - 12pm | 9am - 12pm |  --------  |
-| _Helen_    |   13 - 21   |   13 - 21   |   13 - 21   |   13 - 21   |   15 - 18   |     NA     |  --------  |
-| _Barnabas_ |   13 - 23   |   13 - 23   |   13 - 23   |   13 - 23   |   13 - 23   |  13 - 23   |  --------  |
-| _Renjani_  |   13 - 19   |   13 - 19   |   13 - 19   |   13 - 19   |   13 - 19   |     NA     |   12 - 16  |
+| Day        |   Monday    |   Tuesday   |  Wednesday  |  Thursday  |   Friday    |  Saturday  |  Sunday  |
+| ---------- | :---------: | :---------: | :---------: | :--------: | :---------: | :--------: | :------: |
+| Anita      |   10 - 15   |   10 - 15   |   10 - 15   |  10 - 15   |   10 - 15   |     NA     | 12 - 16  |
+| _Inna_     | 15am - 12pm | 15am - 12pm | 15am - 12pm | 9am - 12pm | 12am - 12pm | 9am - 12pm | -------- |
+| Helen      |   13 - 21   |   13 - 21   |   13 - 21   |  13 - 21   |   15 - 18   |     NA     | -------- |
+| _Barnabas_ |   13 - 23   |   13 - 23   |   13 - 23   |  13 - 23   |   13 - 23   |  13 - 23   | -------- |
+| Renjani    |   13 - 19   |   13 - 19   |   13 - 19   |  13 - 19   |   13 - 19   |     NA     | 12 - 16  |
 
 ### How many hours everyone has per day
 
