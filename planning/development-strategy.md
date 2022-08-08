@@ -107,7 +107,39 @@ The site needs a clear logo at the top-left of the page.
 
 ## ABOUT - Page 4 - about.html
 
-<!-- **Body Starts**   Helen-->
+### Wireframe
+
+### Setup
+
+- [ ] Boilerplate HTML file
+- [ ] Page title in the HTML file
+- [ ] CSS file is linked to HTML
+
+### Title
+
+- [ ] I can find the title of the page at the center
+- [ ] The title to be descriptive about the page
+
+### Navbar
+
+- [ ] I want to be able to navigate to different pages.
+
+### Main Section
+
+- [ ] Description of the mission and vision of hack your future organization.
+- [ ] Two cards for 'our mission' and 'our vision'.
+- [ ] Mission and vision with corresponding icon.
+
+### History
+
+- [ ] Brief history of hack your future.
+- [ ] Pictures of previous graduates to the right of the description.
+
+## List of team members
+
+- [ ] A title for the section
+- [ ] Hack your future stuff members with profile picture and contact.
+- [ ] Each profile has a card with a circular picture frame.
 
 <!-- **Body End** -->
 
