@@ -73,9 +73,58 @@ community, Diversity & inclusiveness , Commitment and open curriculum.
 
 ### Must Haves
 
+#### Title
+
+- [ ] As a user, I can see the logo on the left corner of the nav bar.
+
+> There is a descriptive title, shortly explaining what about a web-page.
+
+#### Navbar
+
+- [ ] As a user, I can use the navbar to navigate to different pages
+
+> There is a suitable navbar of links with the name of the pages.
+
+- [ ] As a user, I can use the apply naw button
+
+> There is a apply naw button in the right corner of the logo
+
 ### Should Haves
 
+- [ ] As a user ,I would like to know the information about course.
+
+> there is a section which contains brief information about the program offered
+> there is a button under the information that links to the curriculum page.
+
+- [ ] As a user , I be interested in the program and would like to know who can
+      participate
+
+> there is section with information there is a button next to the curriculum
+> that links to the application form.
+
+- [ ] As a mentor , want to apply to contribute my part in giving back to the
+      community
+
+> there is a apply button under curriculum application form
+
+- [ ] As a user, I would like to know about the program which will be used.
+
+> there is a program icon on the right side of the button become a coach
+
+- [ ] As a user , I would like to find more information about final project
+
+> there is a section that contains more about final project there is a link
+> under the information discover more
+
+- [ ] As a user, I would like to know about career skills sessions
+
+> there is a section with information
+
 ### Could Haves
+
+- [ ] As a user I can see the footer section
+
+> there is a contact information there is social media links
 
 ## VOLUNTEER Page
 
