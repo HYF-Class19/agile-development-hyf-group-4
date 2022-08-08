@@ -103,6 +103,47 @@ community, Diversity & inclusiveness , Commitment and open curriculum.
 
 ### Must Haves
 
-### Should Haves
+#### Title
 
-### Could Haves
+- [ ] As a user, I want to see the title of the page
+
+> There is a descriptive title with icons shortly explaining what hack your
+> future is about
+
+#### Navbar
+
+- [ ] As a user, I want to see the logo left of the navbar and use it to
+      navigate to different pages.
+
+> There is navbar of links with the name of the pages.
+
+#### Main Section
+
+- [ ] As a user, I can see clear description of the mission and aim of hack your
+      future organization
+
+> There are icons indicating the proper description of the missions.
+
+#### The footer
+
+- [ ] As a user, I want to see the address and social media links
+
+> There are icons indicating the proper social media.
+
+### Should-Haves
+
+#### History
+
+- [ ] As a user, I can see description of hack your futures history
+
+> There is history with picture from previous graduates on the right.
+
+### Could-Haves
+
+#### List of teams
+
+- [ ] As a user, I can see who are part of the hack your future team with
+      contact and picture
+
+> There is a profile picture of the hack your future team with their respective
+> social media contacts.
