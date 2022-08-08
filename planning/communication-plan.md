@@ -4,23 +4,27 @@
 
 <!-- any general rules you'd like to set for your group? -->
 
+Every one will be active on slack and ask questions without hesitation.
+
 ---
 
 ## Communication Schedule
 
-| Day | How | The topic of discussion |
-| --- | :-: | ----------------------- |
-|     |     |                         |
+| Day     | How  | The topic of discussion |
+| ------- | :--: | ----------------------- |
+| Mon-Fri | Zoom | Work completion report  |
 
 ## Communication Channels
 
 how often will we get in touch on each channel, and what we will discuss there:
 
-- **Issues**:
-- **Pull Requests**:
-- **GitHub Discussions**
-- **Slack**:
-- **Video Calls**:
+- **Issues**:After creating issues one can message on slack about it.
+- **Pull Requests**:After creating pull request one can inform on the slack to
+  check it.
+- **GitHub Discussions**: Any time any one can ask questions and whoever checks
+  can respond to the query
+- **Slack/Discord**: Active on Slack to ask any queries.
+- **Video Calls**: Mon-Fri (2:00 p.m)
 
 ---
 
@@ -30,7 +34,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 | Day        |   Monday    |   Tuesday   |  Wednesday  |  Thursday   |   Friday    |  Saturday   |   Sunday   |
 | ---------- | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :--------: |
-| Anita      | 10am - 3pm  | 10am - 3pm  | 10am - 3pm  | 10am - 3pm  | 10am - 3pm  | 10am - 3pm  | 10am - 3pm |
+| Anita      | 10am - 3pm  | 10am - 3pm  | 10am - 3pm  | 10am - 3pm  | 10am - 3pm  |     NA      | 12am - 4pm |
 | _Inna_     | 15am - 12pm | 15am - 12pm | 15am - 12pm | 9am - 12pm  | 12am - 12pm | 9am - 12pm  |  --------  |
 | Helen      | 13am - 21pm | 13am - 21pm | 13am - 21pm | 13am - 21pm | 15pm - 18pm | 10am - 14pm |  --------  |
 | _Barnabas_ |   13 - 23   |   13 - 23   |   13 - 23   |   13 - 23   |   13 - 23   |   13 - 23   |  --------  |
@@ -38,7 +42,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### How many hours everyone has per day
 
-- Anita: _6h_; In this week, I am Mon-Fri from 10am - 3pm
+- Anita: _6h_; In this week availabilityMon-Fri from 10am - 3pm
 - Inna: _06h_;
 - Helen: _8h_;
 - Barnabas: _10h_;
