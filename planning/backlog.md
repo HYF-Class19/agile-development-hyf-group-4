@@ -85,7 +85,7 @@ community, Diversity & inclusiveness , Commitment and open curriculum.
 
 > There is a suitable navbar of links with the name of the pages.
 
-- [ ] As a user, I can use the apply naw button
+- [ ] As a user, I can use the apply now button
 
 > There is a apply naw button in the right corner of the logo
 
