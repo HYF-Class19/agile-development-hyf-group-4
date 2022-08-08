@@ -1,4 +1,4 @@
-# Loruki
+# Hack Your Future
 
 A website offering free IT courses to refugees and new comers in Belgium.
 
