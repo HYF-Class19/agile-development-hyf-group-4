@@ -142,19 +142,13 @@ community, Diversity & inclusiveness , Commitment and open curriculum.
 
 > there are **join as coach** and **join as mentor** buttons.
 
+### **should have**
+
 ### Main section
 
 - [ ] main section with description
 
 > there is main section with convincing description to Volunteers.
-
-### **should have**
-
-### Footer
-
-- [ ] As a user, I want to see the address and social media links
-
-> There are icons indicating the proper social media.
 
 ### **could have**
 
@@ -200,12 +194,6 @@ community, Diversity & inclusiveness , Commitment and open curriculum.
       future organization
 
 > There are icons indicating the proper description of the missions.
-
-#### The footer
-
-- [ ] As a user, I want to see the address and social media links
-
-> There are icons indicating the proper social media.
 
 ### Should-Haves
 
