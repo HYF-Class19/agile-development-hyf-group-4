@@ -1,1 +1,66 @@
 @import url("./something.css");
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap");
+
+:root {
+  --headings-color: #4f7ac1;
+  --secondary-color: #1c3fa8;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #333;
+  line-height: 1.5;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  color: #333;
+}
+
+.navbar {
+  background-color: #f3f6f7;
+  color: #a1bbe6;
+  height: 100px;
+}
+
+.navbar ul {
+  display: flex;
+}
+
+.navbar a {
+  padding: 10px;
+  margin: 0 5px;
+  color: var(--headings-color);
+}
+
+.navbar a:hover {
+  border-bottom: 3px #0f22b1 solid;
+}
+
+.flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.navbar .flex {
+  justify-content: space-between;
+}
+
+.container {
+  max-width: 1600px;
+  margin: 0 auto;
+  overflow: auto;
+  padding: 0 60px;
+}
