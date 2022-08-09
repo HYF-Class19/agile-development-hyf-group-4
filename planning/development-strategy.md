@@ -97,6 +97,33 @@ The site needs a clear logo at the top-left of the page.
 
 <!-- **Body Starts**   Barnabas-->
 
+### wireframe
+
+### Setup
+
+- [ ] Boilerplate HTML file
+- [ ] Page title in the HTML file
+- [ ] CSS file is linked to HTML
+
+### Title
+
+- [ ] the title of the page is at the center
+- [ ] there are buttons to join
+
+### Navbar
+
+- [ ] I want to be able to navigate to different pages.
+
+### Main Section
+
+- [ ] Description for volunteers.
+- [ ] icons with paragraphs
+
+### Sub-main
+
+- [ ] paragraph with pictures inline.
+- [ ] card for description
+
 <!-- **Body End** -->
 
 ## DIGITALENTS - Page 3 - digitalents.html

@@ -130,11 +130,33 @@ community, Diversity & inclusiveness , Commitment and open curriculum.
 
 <!--  Barnabas-->
 
-### Must Haves
+### **Must have**
 
-### Should Haves
+### Title
 
-### Could Haves
+- [ ] as a user i can see the title of the page
+
+> there is a title and description.
+
+- [ ] as a user i am able to choose how to join.
+
+> there are **join as coach** and **join as mentor** buttons.
+
+### **should have**
+
+### Main section
+
+- [ ] main section with description
+
+> there is main section with convincing description to Volunteers.
+
+### **could have**
+
+### Testimonial
+
+- [ ] sub-main section
+
+> there is testimonial of sample mentors there is picture with description.
 
 ## DIGITALENTS Page
 
@@ -172,12 +194,6 @@ community, Diversity & inclusiveness , Commitment and open curriculum.
       future organization
 
 > There are icons indicating the proper description of the missions.
-
-#### The footer
-
-- [ ] As a user, I want to see the address and social media links
-
-> There are icons indicating the proper social media.
 
 ### Should-Haves
 
