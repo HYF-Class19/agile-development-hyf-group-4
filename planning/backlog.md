@@ -180,8 +180,8 @@ community, Diversity & inclusiveness , Commitment and open curriculum.
 
 - [ ] As a user, I can see the link on how to apply for the programme
 
-> There is an information about who can apply and a button which is connected
-> to the application form
+> There is an information about who can apply and a button which is connected to
+> the application form
 
 ### Could Haves
 
