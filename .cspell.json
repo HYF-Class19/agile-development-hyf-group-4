@@ -18,7 +18,9 @@
     "WIREFRAME",
     "Wireframes",
     "Yodiz",
-    "Zepel"
+    "Zepel",
+    "Digitalens",
+    "hoomepagedesign"
   ],
   "ignorePaths": [
     "node_modules/**",
