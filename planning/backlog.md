@@ -164,9 +164,30 @@ community, Diversity & inclusiveness , Commitment and open curriculum.
 
 ### Must Haves
 
+#### Title
+
+- [ ] As a user, I can see the title of the page
+
+> There is a title and description about the programme
+
+#### Main Section
+
+- [ ] As a user, I can see the two tracks of the programme
+
+> There are two boxes of the programme-tracks and the description
+
 ### Should Haves
 
+- [ ] As a user, I can see the link on how to apply for the programme
+
+> There is an information about who can apply and a button which is connected to
+> the application form
+
 ### Could Haves
+
+- [ ] As a user, I can see a picture of the activities at HYF class
+
+> There is a picture at the Digitalens page
 
 ## ABOUT Page
 
