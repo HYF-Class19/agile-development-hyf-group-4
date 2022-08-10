@@ -130,6 +130,30 @@ The site needs a clear logo at the top-left of the page.
 
 <!-- **Body Starts**   Renjani-->
 
+### Setup
+
+- [ ] Boilerplate HTML file
+- [ ] Page title in the HTML file
+- [ ] empty CSS file
+- [ ] CSS file is linked to HTML
+
+### Content: HTML
+
+<!-- **Body Starts** -->
+
+- [ ] Title section in the center containing description about the program
+- [ ] Digitalents section containing two cards
+  with the description about the tracks of the program
+- [ ] Apply section (image, description, and application
+button connects to application form)
+
+### Content: CSS
+
+- [ ] Title text in the center
+- [ ] Digitalents section using grid
+- [ ] Position image in the center
+- [ ] Button with link to application form
+
 <!-- **Body End** -->
 
 ## ABOUT - Page 4 - about.html
