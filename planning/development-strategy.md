@@ -142,10 +142,10 @@ The site needs a clear logo at the top-left of the page.
 <!-- **Body Starts** -->
 
 - [ ] Title section in the center containing description about the program
-- [ ] Digitalents section containing two cards
-  with the description about the tracks of the program
-- [ ] Apply section (image, description, and application
-button connects to application form)
+- [ ] Digitalents section containing two cards with the description about the
+      tracks of the program
+- [ ] Apply section (image, description, and application button connects to
+      application form)
 
 ### Content: CSS
 
