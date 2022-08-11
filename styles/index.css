@@ -56,9 +56,10 @@ a {
   word-break: break-word;
   font-weight: 300;
 }
+
 /* footer end */
 
-.navbar a:hover {
+.navbar a:hover {t
   border-bottom: 3px #0f22b1 solid;
 }
 
