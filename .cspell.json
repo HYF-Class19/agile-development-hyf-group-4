@@ -20,7 +20,10 @@
     "Yodiz",
     "Zepel",
     "Digitalens",
-    "hoomepagedesign"
+    "hoomepagedesign",
+    "impactsection",
+    "statstics",
+    "livechat"
   ],
   "ignorePaths": [
     "node_modules/**",
