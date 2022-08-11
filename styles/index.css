@@ -61,7 +61,6 @@ a {
 .container {
   max-width: 1600px;
   margin: 0 auto;
-  overflow: auto;
   padding: 0 60px;
 }
 
@@ -98,3 +97,62 @@ a {
   margin-bottom: 20px;
   text-transform: uppercase;
 }
+
+/* our impact section start */
+.impactsection {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  vertical-align: baseline;
+  padding: 50px;
+  margin: 0 0 50px;
+}
+
+.ourImpact {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  margin: 0;
+  vertical-align: baseline;
+}
+
+.ourImpact h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+  font-family: "work sans", sans-serif;
+  font-weight: 700;
+  color: #1c2294;
+  text-align: left;
+}
+
+.ourImpact p {
+  font-size: 16px;
+  font-family: "Space Mono", monospace;
+  font-weight: 700;
+  color: #95c420;
+}
+
+.statstics {
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+}
+
+.statstics div {
+  margin-left: 20px;
+  background: #4a50bb;
+  color: #fff;
+  font: 24px "Work Sans", sans-serif;
+  padding: 20px;
+}
+
+.statstics p {
+  font: 16px "Space Mono", monospace;
+}
+
+/* our impact section end */
