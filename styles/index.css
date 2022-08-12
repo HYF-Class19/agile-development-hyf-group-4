@@ -195,14 +195,35 @@ ul .navbar {
   text-align: left;
   max-width: 470px;
   line-height: 160%;
-  font-size: 17px;
+  font-size: 18px;
   font-family: "Space Mono", monospace;
   margin: 0px;
   font-weight: 300;
 }
 
+.programsection h1 {
+  color: rgb(28, 34, 148);
+  font-weight: bold;
+  font-size: x-large;
+}
+
+.programsection p b {
+  color: rgb(74, 80, 187);
+  font-weight: bold;
+}
+
+.programsection span {
+  color: rgb(74, 80, 187);
+  font-weight: bold;
+}
+
+.programsection a {
+  color: rgb(74, 80, 187);
+  font-weight: bold;
+}
+
 .programsection img {
-  width: 550px;
+  width: 600px;
   justify-self: flex-end;
 }
 
