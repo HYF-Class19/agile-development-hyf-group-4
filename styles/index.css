@@ -77,6 +77,7 @@ a {
   z-index: 1;
   flex: 0 0 auto;
 }
+
 .container1 {
   display: flex;
   flex-direction: column;
@@ -87,12 +88,14 @@ a {
   padding: 10px 0;
   margin: 0;
 }
+
 .card {
   display: flex;
   background-color: #e9f0f7;
   padding: 100px;
   flex-direction: column;
 }
+
 .coreheading {
   font-size: 25px;
   line-height: 140%;
@@ -101,12 +104,14 @@ a {
   color: var(--headings-color);
   margin-bottom: 20px;
 }
+
 .cover {
   display: flex;
   flex-wrap: wrap;
   flex-grow: 1;
   justify-content: space-between;
 }
+
 .coreitems {
   display: flex;
   width: 40%;
@@ -119,6 +124,7 @@ a {
   min-height: 70px;
   object-fit: contain;
 }
+
 .coreitemheading {
   font-size: 20px;
   line-height: 140%;
@@ -130,6 +136,7 @@ a {
   text-align: left;
   max-width: none;
 }
+
 .corepara {
   color: rgb(45, 48, 55);
   text-align: left;
@@ -137,7 +144,7 @@ a {
   line-height: 160%;
   font-size: 16px;
   font-family: "Space Mono", monospace;
-  margin: 0px;
+  margin: 0;
   white-space: pre-wrap;
   word-break: break-word;
   font-weight: 300;
