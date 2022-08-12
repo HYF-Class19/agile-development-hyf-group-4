@@ -127,7 +127,7 @@ a {
   word-break: break-word;
   font-weight: 300;
 }
-=======
+
 /* header */
 
 .img-container {
@@ -320,6 +320,7 @@ a {
   object-fit: fill;
   border-radius: 0;
 }
+
 /** our core values section ends **/
 
 /* footer */
