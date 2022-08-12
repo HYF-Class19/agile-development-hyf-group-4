@@ -164,10 +164,6 @@ ul .navbar {
 
 /* Our program section start */
 
-* {
-  box-sizing: border-box;
-}
-
 .row {
   display: flex;
 }
@@ -184,9 +180,8 @@ ul .navbar {
   box-sizing: border-box;
   font-family: "Space Mono", monospace;
   vertical-align: baseline;
-  padding: 20px;
+  padding: 80px;
   margin: 0 0 30px;
-  padding: 100px;
   border: none;
 }
 
@@ -197,7 +192,6 @@ ul .navbar {
   line-height: 160%;
   font-size: 18px;
   font-family: "Space Mono", monospace;
-  margin: 0px;
   font-weight: 300;
 }
 
@@ -212,12 +206,12 @@ ul .navbar {
   font-weight: bold;
 }
 
-.programsection span {
+.programsection a {
   color: rgb(74, 80, 187);
   font-weight: bold;
 }
 
-.programsection a {
+.programsection span {
   color: rgb(74, 80, 187);
   font-weight: bold;
 }
@@ -306,7 +300,7 @@ h1.statstics {
 }
 
 .suportPargh {
-  width: 40%;
+  width: 50%;
   padding-right: 50px;
   font-family: monospace;
 }
@@ -337,11 +331,6 @@ ul {
   border: 1px solid var(--secondary-color);
   background: #fff;
   padding: 10px 20px;
-}
-
-.suportForm li:hover {
-  background: var(--secondary-color);
-  color: #fff;
 }
 
 .suportForm input {
@@ -534,7 +523,7 @@ iframe {
   font-weight: 300;
 }
 
-/* footer -end */
+/* footer end */
 
 .navbar a:hover {
   border-bottom: 3px #0f22b1 solid;
