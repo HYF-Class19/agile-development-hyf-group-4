@@ -306,7 +306,7 @@ h1.statstics {
 }
 
 .suportPargh {
-  width: 50%;
+  width: 40%;
   padding-right: 50px;
   font-family: monospace;
 }
@@ -337,6 +337,11 @@ ul {
   border: 1px solid var(--secondary-color);
   background: #fff;
   padding: 10px 20px;
+}
+
+.suportForm li:hover {
+  background: var(--secondary-color);
+  color: #fff;
 }
 
 .suportForm input {
@@ -529,7 +534,7 @@ iframe {
   font-weight: 300;
 }
 
-/* footer end */
+/* footer -end */
 
 .navbar a:hover {
   border-bottom: 3px #0f22b1 solid;
