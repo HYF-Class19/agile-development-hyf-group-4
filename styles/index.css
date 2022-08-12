@@ -162,6 +162,38 @@ ul .navbar {
   text-transform: uppercase;
 }
 
+/* Our program section start */
+
+.programsection img {
+  width: 550px;
+  justify-self: flex-end;
+}
+
+.programsection {
+  display: flex;
+  grid-column: column;
+  box-sizing: border-box;
+  font-family: "Space Mono", monospace;
+  vertical-align: baseline;
+  padding: 40px;
+  margin: 0 0 50px;
+  padding: 100px;
+  border: none;
+}
+
+.ourprogram {
+  color: rgb(45, 48, 55);
+  text-align: left;
+  max-width: 470px;
+  line-height: 160%;
+  font-size: 16px;
+  font-family: "Space Mono", monospace;
+  margin: 0px;
+  font-weight: 300;
+}
+
+/* Our program section end */
+
 /* our impact section start */
 .impactsection {
   display: flex;
@@ -228,7 +260,7 @@ h1.statstics {
 
 /* support us section start */
 
-.suportContainer {
+.supportContainer {
   display: flex;
   flex-direction: row;
   column-gap: 50px;
