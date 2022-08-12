@@ -95,6 +95,7 @@ a {
   width: 40%;
   flex-direction: column;
   align-items: flex-start;
+  margin-top: 40px;
 }
 
 .coreitems > img {
@@ -123,7 +124,6 @@ a {
   font-size: 16px;
   font-family: "Space Mono", monospace;
   margin: 0;
-  white-space: pre-wrap;
   word-break: break-word;
   font-weight: 300;
 }
@@ -220,6 +220,56 @@ a {
 }
 
 /* our impact section end */
+
+/* contact and map  start */
+
+.contactContainer {
+  display: flex;
+  flex-direction: row;
+  column-gap: 50px;
+}
+
+.form {
+  display: flex;
+  background: var(--secondary-color);
+  color: #fff;
+  font: 16px "space mono", monospace;
+  padding: 50px 100px;
+  justify-content: center;
+  text-align: justify;
+  width: 50%;
+}
+
+.form > h1,
+p,
+button {
+  margin: 20px 0 5px 0;
+}
+
+input,
+textarea {
+  background: transparent;
+  border: 1px #fff solid;
+  border-radius: 2px;
+  padding: 10px 5px;
+  outline: none;
+  box-shadow: none;
+  width: 100%;
+}
+form button {
+  background: #fff;
+  border: none;
+  border-radius: 5px;
+  color: #333;
+  padding: 10px 15px;
+  cursor: pointer;
+}
+
+iframe {
+  height: 100%;
+}
+
+/* contact and map  end */
 
 /* footer */
 
