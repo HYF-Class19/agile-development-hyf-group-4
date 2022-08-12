@@ -24,7 +24,12 @@
     "WIREFRAME",
     "Wireframes",
     "Yodiz",
-    "Zepel"
+    "Zepel",
+    "Digitalens",
+    "hoomepagedesign",
+    "impactsection",
+    "statstics",
+    "livechat"
   ],
   "ignorePaths": [
     "node_modules/**",
