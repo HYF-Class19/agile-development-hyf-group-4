@@ -187,7 +187,7 @@ community, Diversity & inclusiveness , Commitment and open curriculum.
 
 - [ ] As a user, I can see a picture of the activities at HYF class
 
-> There is a picture at the Digitalens page
+> There is a picture at the Digitalents page
 
 ## ABOUT Page
 
