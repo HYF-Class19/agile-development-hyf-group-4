@@ -162,6 +162,67 @@ ul .navbar {
   text-transform: uppercase;
 }
 
+/* Our program section start */
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+  padding: 30px;
+}
+
+.programsection {
+  display: flex;
+  justify-content: space-around;
+  grid-column: column;
+  box-sizing: border-box;
+  font-family: "Space Mono", monospace;
+  vertical-align: baseline;
+  padding: 80px;
+  margin: 0 0 30px;
+  border: none;
+}
+
+.ourprogram {
+  color: rgb(45, 48, 55);
+  text-align: left;
+  max-width: 470px;
+  line-height: 160%;
+  font-size: 18px;
+  font-family: "Space Mono", monospace;
+  font-weight: 300;
+}
+
+.programsection h1 {
+  color: rgb(28, 34, 148);
+  font-weight: bold;
+  font-size: x-large;
+}
+
+.programsection p b {
+  color: rgb(74, 80, 187);
+  font-weight: bold;
+}
+
+.programsection a {
+  color: rgb(74, 80, 187);
+  font-weight: bold;
+}
+
+.programsection span {
+  color: rgb(74, 80, 187);
+  font-weight: bold;
+}
+
+.programsection img {
+  width: 600px;
+  justify-self: flex-end;
+}
+
+/* Our program section end */
+
 /* our impact section start */
 .impactsection {
   display: flex;
@@ -228,7 +289,7 @@ h1.statstics {
 
 /* support us section start */
 
-.suportContainer {
+.supportContainer {
   display: flex;
   flex-direction: row;
   column-gap: 50px;
@@ -239,7 +300,7 @@ h1.statstics {
 }
 
 .suportPargh {
-  width: 40%;
+  width: 50%;
   padding-right: 50px;
   font-family: monospace;
 }
@@ -270,11 +331,6 @@ ul {
   border: 1px solid var(--secondary-color);
   background: #fff;
   padding: 10px 20px;
-}
-
-.suportForm li:hover {
-  background: var(--secondary-color);
-  color: #fff;
 }
 
 .suportForm input {
@@ -467,7 +523,7 @@ iframe {
   font-weight: 300;
 }
 
-/* footer -end */
+/* footer end */
 
 .navbar a:hover {
   border-bottom: 3px #0f22b1 solid;
