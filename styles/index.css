@@ -43,29 +43,7 @@ a {
   color: var(--headings-color);
 }
 
-.navbar a:hover {
-  border-bottom: 3px #0f22b1 solid;
-}
-
-.flex {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100%;
-}
-
-.navbar .flex {
-  justify-content: space-between;
-}
-
-.container {
-  max-width: 1600px;
-  margin: 0 auto;
-  overflow: auto;
-  padding: 0 60px;
-}
-
-/** Our core values */
+/** Our core values  start */
 .corevalues {
   display: flex;
   justify-content: flex-end;
@@ -148,4 +126,237 @@ a {
   white-space: pre-wrap;
   word-break: break-word;
   font-weight: 300;
+}
+
+/* header */
+
+.img-container {
+  height: 400px;
+  position: relative;
+}
+
+.bg-image {
+  background-image: url("../public/home-header.jpeg");
+  height: 100%;
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-filter: blur(2px);
+  filter: blur(2px);
+}
+
+.bg-text {
+  background-color: rgba(164, 158, 158, 0.4);
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 80%;
+  padding: 40px;
+  text-align: center;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+}
+
+/* our impact section start */
+.impactsection {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  vertical-align: baseline;
+  padding: 50px;
+  margin: 0 0 50px;
+}
+
+.ourImpact {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  margin: 0;
+  vertical-align: baseline;
+}
+
+.ourImpact h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+  font-family: "work sans", sans-serif;
+  font-weight: 700;
+  color: #1c2294;
+  text-align: left;
+}
+
+.ourImpact p {
+  font-size: 16px;
+  font-family: "Space Mono", monospace;
+  font-weight: 700;
+  color: #95c420;
+}
+
+.statstics {
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+}
+
+.statstics div {
+  margin-left: 20px;
+  background: #4a50bb;
+  color: #fff;
+  font: 24px "Work Sans", sans-serif;
+  padding: 20px;
+}
+
+.statstics p {
+  font: 16px "Space Mono", monospace;
+}
+
+/* our impact section end */
+
+/* footer */
+
+.footer {
+  display: flex;
+  -moz-box-pack: center;
+  justify-content: center;
+  width: 100%;
+  padding: 50px 20px;
+  position: relative;
+  z-index: 1;
+  flex: 0 0 auto;
+}
+
+.footer-div {
+  -moz-box-align: center;
+  align-items: center;
+  background: transparent none repeat scroll 0% 0%;
+  box-shadow: none;
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 1 100%;
+  flex-direction: column;
+  -moz-box-flex: 0;
+  height: auto;
+  -moz-box-pack: start;
+  justify-content: flex-start;
+  margin: 0;
+  max-height: none;
+  max-width: none;
+  padding: 0;
+  width: 100%;
+  z-index: 0;
+  position: static;
+}
+
+.footer-div h3 {
+  font-size: 24px;
+  line-height: 140%;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 700;
+  color: #4f7ac1;
+  text-align: center;
+  max-width: none;
+}
+
+.footer-div p {
+  color: rgb(45, 48, 55);
+  text-align: center;
+  text-transform: uppercase;
+  max-width: none;
+  line-height: 160%;
+  font-size: 16px;
+  font-family: "Work Sans", sans-serif;
+  margin: 0;
+  word-break: break-word;
+  font-weight: 300;
+}
+
+.footer-div .icons {
+  -moz-box-align: stretch;
+  align-items: stretch;
+  background: transparent none repeat scroll 0% 0%;
+  box-shadow: none;
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 1 100%;
+  flex-direction: row;
+  -moz-box-flex: 0;
+  height: auto;
+  -moz-box-pack: center;
+  justify-content: center;
+  margin: 20px 0;
+  max-height: none;
+  max-width: none;
+  padding: 0;
+  width: 100%;
+  z-index: 0;
+  position: static;
+}
+
+.icons .icon-a {
+  color: #4f7ac1;
+  text-align: left;
+  max-width: none;
+  line-height: 160%;
+  font-size: 16px;
+  font-family: "Space Mono", monospace;
+  margin: 0 10px;
+  font-weight: 300;
+}
+
+.icons .icon-a .icon-img {
+  width: auto;
+  height: 26px;
+  object-fit: fill;
+  border-radius: 0;
+}
+
+/** our core values section ends **/
+
+/* footer */
+
+.footer-div a {
+  color: rgb(45, 48, 55);
+  text-align: left;
+  max-width: none;
+  line-height: 160%;
+  font-size: 16px;
+  font-family: "Space Mono", monospace;
+  margin: 0;
+  white-space: pre;
+  word-break: break-word;
+  font-weight: 300;
+}
+
+/* footer end */
+
+.navbar a:hover {
+  border-bottom: 3px #0f22b1 solid;
+}
+
+.flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.navbar .flex {
+  justify-content: space-between;
+}
+
+.container {
+  max-width: 1600px;
+  margin: 0 auto;
+  padding: 0 60px;
 }
