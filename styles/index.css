@@ -33,7 +33,7 @@ a {
   height: 100px;
 }
 
-.navbar ul {
+ul .navbar {
   display: flex;
 }
 
@@ -95,6 +95,7 @@ a {
   width: 40%;
   flex-direction: column;
   align-items: flex-start;
+  margin-top: 40px;
 }
 
 .coreitems > img {
@@ -123,7 +124,6 @@ a {
   font-size: 16px;
   font-family: "Space Mono", monospace;
   margin: 0;
-  white-space: pre-wrap;
   word-break: break-word;
   font-weight: 300;
 }
@@ -170,7 +170,7 @@ a {
   font-family: sans-serif;
   vertical-align: baseline;
   padding: 50px;
-  margin: 0 0 50px;
+  margin: 0 0 20px;
 }
 
 .ourImpact {
@@ -185,7 +185,7 @@ a {
   vertical-align: baseline;
 }
 
-.ourImpact h2 {
+.ourImpact > h2 {
   font-size: 24px;
   margin-bottom: 20px;
   font-family: "work sans", sans-serif;
@@ -194,7 +194,7 @@ a {
   text-align: left;
 }
 
-.ourImpact p {
+.ourImpact > div {
   font-size: 16px;
   font-family: "Space Mono", monospace;
   font-weight: 700;
@@ -203,6 +203,7 @@ a {
 
 .statstics {
   padding: 20px;
+  margin: 20px;
   display: flex;
   flex-direction: row;
 }
@@ -211,15 +212,138 @@ a {
   margin-left: 20px;
   background: #4a50bb;
   color: #fff;
-  font: 24px "Work Sans", sans-serif;
+  font: 16px "Space Mono", monospace;
   padding: 20px;
 }
 
-.statstics p {
+h1.statstics {
+  font: 24px "Space Mono", monospace;
+}
+
+.ourImpact div {
   font: 16px "Space Mono", monospace;
 }
 
 /* our impact section end */
+
+/* support us section start */
+
+.suportContainer {
+  display: flex;
+  flex-direction: row;
+  column-gap: 50px;
+  padding: 50px 20px;
+  margin: 0 0 50px 0;
+  background: rgb(248, 249, 252);
+  justify-content: baseline;
+}
+
+.suportPargh {
+  width: 50%;
+  padding-right: 50px;
+  font-family: monospace;
+}
+
+.radio {
+  width: fit-content;
+  align-items: flex-start;
+}
+
+.radio,
+ul {
+  display: inline-flex;
+  flex-direction: row;
+  font: 16px "Work Sans", sans-serif;
+}
+
+.radiop {
+  margin: 0 10px;
+}
+
+.suportForm,
+.suportPargh h1 {
+  color: var(--secondary-color);
+  font-family: sans-serif;
+}
+
+.suportForm li {
+  border: 1px solid var(--secondary-color);
+  background: #fff;
+  padding: 10px 20px;
+}
+
+.suportForm input {
+  width: 100%;
+  background: transparent;
+  border: none;
+  border-bottom: 1px solid var(--secondary-color);
+  outline: none;
+  padding: 5px;
+}
+
+.donat {
+  border: none;
+  border-radius: 5px;
+  background: var(--secondary-color);
+  color: #fff;
+  padding: 15px 20px;
+  cursor: pointer;
+}
+
+/* support us section end */
+
+/* contact and map  start */
+
+.contactContainer {
+  display: flex;
+  flex-direction: row;
+  column-gap: 50px;
+}
+
+.form {
+  display: flex;
+  background: var(--secondary-color);
+  color: #fff;
+  font: 16px "space mono", monospace;
+  padding: 50px 100px;
+  justify-content: center;
+  width: 40%;
+}
+
+.form > h1,
+p,
+button {
+  margin: 20px 0 5px 0;
+  align-items: stretch;
+}
+
+.form input,
+textarea {
+  background: transparent;
+  border: 1px #fff solid;
+  border-radius: 2px;
+  padding: 10px 5px;
+  outline: none;
+  box-shadow: none;
+  width: 100%;
+}
+
+.form button {
+  background: #fff;
+  border: none;
+  border-radius: 5px;
+  color: #333;
+  padding: 10px 15px;
+  cursor: pointer;
+}
+
+iframe {
+  width: 800px;
+  height: 100%;
+  border: none;
+}
+
+/* contact and  map  end */
 
 /* footer */
 
