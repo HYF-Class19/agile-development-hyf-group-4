@@ -308,7 +308,7 @@ h1.statstics {
 
 /* support us section start */
 
-.supportContainer {
+.suportContainer {
   display: flex;
   flex-direction: row;
   column-gap: 50px;
@@ -352,6 +352,11 @@ ul {
   padding: 10px 20px;
 }
 
+.suportForm li:hover {
+  background: var(--secondary-color);
+  color: #fff;
+}
+
 .suportForm input {
   width: 100%;
   background: transparent;
@@ -372,7 +377,7 @@ ul {
 
 /* support us section end */
 
-/* contact and map  start */
+/* contact and  map  start */
 
 .contactContainer {
   display: flex;
