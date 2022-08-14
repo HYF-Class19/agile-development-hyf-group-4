@@ -308,7 +308,7 @@ h1.statstics {
 
 /* support us section start */
 
-.supportContainer {
+.suportContainer {
   display: flex;
   flex-direction: row;
   column-gap: 50px;
@@ -350,6 +350,11 @@ ul {
   border: 1px solid var(--secondary-color);
   background: #fff;
   padding: 10px 20px;
+}
+
+.suportForm li:hover {
+  background: var(--secondary-color);
+  color: #fff;
 }
 
 .suportForm input {
