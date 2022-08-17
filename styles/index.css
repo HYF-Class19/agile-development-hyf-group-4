@@ -193,7 +193,7 @@ ul .navbar {
 }
 
 .programsection {
-  display: flex;
+  display: row;
   justify-content: space-around;
   grid-column: column;
   box-sizing: border-box;
