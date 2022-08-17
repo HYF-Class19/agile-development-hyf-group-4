@@ -2,14 +2,24 @@
 
 ![home page design wireframe](../public/hoomepagedesign.png)
 
-# The Program Page
+## The Program Page
 
-# Volunteer Page
+<!--   Inna -->
 
-# Digitalents Page
+## Volunteer Page
+
+<!--  Barnabas-->
+
+## Digitalents Page
+
+<!-- Renjani-->
 
 ![Digitalents design wireframe](../public/digitalentpage.png)
 
-# About Page
+## About Page
 
-# FAQ Page
+<!-- Helen-->
+
+## FAQ Page
+
+<!-- Anita -->
