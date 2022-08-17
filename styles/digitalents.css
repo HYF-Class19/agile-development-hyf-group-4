@@ -474,7 +474,7 @@ track.style {
 
 /* lint */
 
-.navbar a:hover {
+footer .navbar a:hover {
   border-bottom: 3px #0f22b1 solid;
 }
 
