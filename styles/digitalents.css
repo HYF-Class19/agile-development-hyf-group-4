@@ -33,7 +33,7 @@ a {
   height: 100px;
 }
 
-ul .navbar {
+.navbar ul {
   display: flex;
 }
 
@@ -52,6 +52,10 @@ ul .navbar {
 
 .navbar .flex {
   justify-content: space-between;
+}
+
+.navbar a:hover {
+  border-bottom: 2px #fff solid;
 }
 
 .container {
