@@ -190,6 +190,7 @@ ul .navbar {
 .column {
   flex: 50%;
   padding: 30px;
+  box-shadow: rgb(0 0 0 / 8%) 0px 0px 53px;
 }
 
 .programsection {
