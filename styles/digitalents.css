@@ -54,10 +54,6 @@ a {
   justify-content: space-between;
 }
 
-.navbar a:hover {
-  border-bottom: 2px #fff solid;
-}
-
 .container {
   max-width: 1600px;
   margin: 0 auto;
@@ -100,7 +96,8 @@ a {
   align-items: center;
   width: 100%;
   max-width: 1280px;
-  padding: 10px 0px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   margin: auto;
 }
 
@@ -122,7 +119,8 @@ a {
   position: static;
   background: none;
   flex: 0 1 100%;
-  margin: 10px 0px;
+  margin-top: 10px;
+  margin-bottom: 10px;
   padding: auto;
 }
 
@@ -166,8 +164,7 @@ a {
   position: static;
   background: none;
   flex: 0 1 100%;
-  margin: 20px 0px 0px;
-  padding: 0px;
+  margin-top: 20px;
 }
 
 /* Digitalents end */
@@ -201,8 +198,9 @@ track.style {
   align-items: center;
   width: 100%;
   max-width: 1280px;
-  padding: 10px 0px;
-  margin: 0px auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin: auto;
   flex-wrap: wrap;
 }
 
@@ -230,7 +228,7 @@ track.style {
   width: 45%;
   display: flex;
   flex-direction: column;
-  box-shadow: rgb(0 0 0 / 8%) 0px 0px 53px;
+  box-shadow: rgb(0 0 0 8%) 53px;
   padding: 40px 50px;
   margin-bottom: 50px;
 }
@@ -258,11 +256,10 @@ track.style {
   line-height: 160%;
   font-size: 16px;
   font-family: "Space Mono", monospace;
-  margin: 0px;
   font-weight: 300;
 }
 
-/* Track end*/
+/* Track end */
 
 /* Apply start */
 
@@ -283,7 +280,8 @@ track.style {
   font-family: "Space Mono", monospace;
   vertical-align: baseline;
   padding: 80px;
-  margin: 20 0 30px;
+  margin-top: 20px;
+  margin-bottom: 30px;
   border: none;
 }
 
@@ -313,7 +311,6 @@ track.style {
   color: white;
   font-weight: 600;
   border: 1px solid transparent;
-  border-radius: 0px;
   box-sizing: border-box;
   padding: 10px 20px;
   cursor: pointer;
@@ -474,7 +471,7 @@ track.style {
 
 /* lint */
 
-footer .navbar a:hover {
+.navbar a:hover {
   border-bottom: 3px #0f22b1 solid;
 }
 
