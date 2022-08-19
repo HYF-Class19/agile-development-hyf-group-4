@@ -661,11 +661,6 @@ iframe {
   margin-top: 20px;
 }
 
-track.style {
-  margin-bottom: 50px;
-  padding-top: 20px;
-}
-
 .track-section {
   display: flex;
   -webkit-box-pack: center;
@@ -677,6 +672,8 @@ track.style {
   background: rgb(248, 249, 252);
   z-index: 1;
   flex: 0 0 auto;
+  margin-bottom: 50px;
+  padding-top: 20px;
 }
 
 .track-div {
