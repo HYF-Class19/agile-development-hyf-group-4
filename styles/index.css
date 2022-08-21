@@ -247,23 +247,17 @@ ul .navbar {
 .impactsection {
   display: flex;
   flex-direction: column;
-  box-sizing: border-box;
-  font-family: sans-serif;
-  vertical-align: baseline;
   padding: 50px;
   margin: 0 0 20px;
 }
 
-.ourImpact {
+.ourImpact,
+.volunteer {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   text-align: center;
-  box-sizing: border-box;
-  font-family: sans-serif;
-  margin: 0;
-  vertical-align: baseline;
 }
 
 .ourImpact > h2 {
@@ -368,12 +362,13 @@ ul {
 }
 
 .donat {
-  border: none;
+  margin-top: 10px;
   border-radius: 5px;
   background: var(--secondary-color);
   color: #fff;
   padding: 15px 20px;
   cursor: pointer;
+  z-index: 0;
 }
 
 /* support us section end */
@@ -496,10 +491,8 @@ iframe {
 }
 
 .footer-div .icons {
-  -moz-box-align: stretch;
   align-items: stretch;
   background: transparent none repeat scroll 0% 0%;
-  box-shadow: none;
   box-sizing: border-box;
   display: flex;
   flex: 0 1 100%;
@@ -854,3 +847,75 @@ iframe {
 }
 
 /* sponsor end */
+
+/* volunteer */
+
+.volunteer {
+  max-width: 550px;
+  justify-content: center;
+  align-items: center;
+  font-family: "Space Mono", monospace;
+}
+
+.main-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: baseline;
+  padding: 45px;
+  background: rgb(248, 249, 252);
+  height: fit-content;
+}
+
+.main-container h2,
+b,
+.cards h2,
+h3 {
+  color: #1c2294;
+}
+
+.sub-container {
+  display: flex;
+  flex-direction: column;
+  width: 70%;
+}
+
+.sub-container div {
+  display: flex;
+  flex-direction: row;
+  margin: 20px;
+  font: 16px "space mono", monospace;
+}
+
+.sub-container img {
+  margin: 10px 40px 0 0;
+}
+
+.testimony-container {
+  display: flex;
+  flex-direction: column;
+  padding: 50px 40px;
+}
+
+.cards-paragraph {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: flex-end;
+  margin: 50px 20px;
+}
+
+.cards {
+  box-shadow: rgb(0 0 0 / 8%) 0 0 53px;
+  padding: 30px;
+  width: 60%;
+  font: 16px "space mono", monospace;
+}
+
+.cards * {
+  margin-bottom: 10px;
+}
+
+.cards-paragraph img {
+  width: 600px;
+}
