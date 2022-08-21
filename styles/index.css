@@ -434,35 +434,20 @@ iframe {
 
 .footer {
   display: flex;
-  -moz-box-pack: center;
   justify-content: center;
   width: 100%;
   padding: 50px 20px;
-  position: relative;
-  z-index: 1;
-  flex: 0 0 auto;
 }
 
 .footer-div {
-  -moz-box-align: center;
   align-items: center;
-  background: transparent none repeat scroll 0% 0%;
-  box-shadow: none;
-  box-sizing: border-box;
+  background: transparent;
   display: flex;
   flex: 0 1 100%;
   flex-direction: column;
-  -moz-box-flex: 0;
-  height: auto;
-  -moz-box-pack: start;
-  justify-content: flex-start;
-  margin: 0;
-  max-height: none;
-  max-width: none;
-  padding: 0;
+  margin: 1px;
+  padding: 1px;
   width: 100%;
-  z-index: 0;
-  position: static;
 }
 
 .footer-div .h3 {
@@ -474,14 +459,12 @@ iframe {
   font-weight: 700;
   color: #4f7ac1;
   text-align: center;
-  max-width: none;
 }
 
 .footer-div p {
   color: rgb(45, 48, 55);
   text-align: center;
   text-transform: uppercase;
-  max-width: none;
   line-height: 160%;
   font-size: 16px;
   font-family: "Work Sans", sans-serif;
@@ -492,28 +475,18 @@ iframe {
 
 .footer-div .icons {
   align-items: stretch;
-  background: transparent none repeat scroll 0% 0%;
+  background: transparent;
   box-sizing: border-box;
   display: flex;
-  flex: 0 1 100%;
   flex-direction: row;
-  -moz-box-flex: 0;
-  height: auto;
-  -moz-box-pack: center;
   justify-content: center;
   margin: 20px 0;
-  max-height: none;
-  max-width: none;
-  padding: 0;
   width: 100%;
-  z-index: 0;
-  position: static;
 }
 
 .icons .icon-a {
   color: #4f7ac1;
   text-align: left;
-  max-width: none;
   line-height: 160%;
   font-size: 16px;
   font-family: "Space Mono", monospace;
@@ -524,8 +497,6 @@ iframe {
 .icons .icon-a .icon-img {
   width: auto;
   height: 26px;
-  object-fit: fill;
-  border-radius: 0;
 }
 
 /** our core values section ends **/
@@ -848,7 +819,6 @@ iframe {
 
 /* sponsor end */
 
-
 /* about page */
 .about-title {
   color: #4f7ac1;
@@ -935,7 +905,7 @@ iframe {
 
 .history-container div {
   width: 50%;
-  margin: 20px;
+  margin: 20px 20px 170px 20px;
   padding: 20px;
   height: 300px;
 }
@@ -956,7 +926,8 @@ iframe {
 
 .graduate {
   height: auto;
-  width: 100%;}
+  width: 100%;
+}
 
 /* volunteer */
 
