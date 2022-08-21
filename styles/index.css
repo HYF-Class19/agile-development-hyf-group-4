@@ -190,10 +190,11 @@ ul .navbar {
 .column {
   flex: 50%;
   padding: 30px;
+  box-shadow: rgb(0 0 0 / 8%) 5px 5px 53px;
 }
 
 .programsection {
-  display: flex;
+  display: row;
   justify-content: space-around;
   grid-column: column;
   box-sizing: border-box;
@@ -220,7 +221,7 @@ ul .navbar {
   font-size: x-large;
 }
 
-.programsection p b {
+b {
   color: rgb(74, 80, 187);
   font-weight: bold;
 }
@@ -246,23 +247,17 @@ ul .navbar {
 .impactsection {
   display: flex;
   flex-direction: column;
-  box-sizing: border-box;
-  font-family: sans-serif;
-  vertical-align: baseline;
   padding: 50px;
   margin: 0 0 20px;
 }
 
-.ourImpact {
+.ourImpact,
+.volunteer {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   text-align: center;
-  box-sizing: border-box;
-  font-family: sans-serif;
-  margin: 0;
-  vertical-align: baseline;
 }
 
 .ourImpact > h2 {
@@ -367,12 +362,13 @@ ul {
 }
 
 .donat {
-  border: none;
+  margin-top: 10px;
   border-radius: 5px;
   background: var(--secondary-color);
   color: #fff;
   padding: 15px 20px;
   cursor: pointer;
+  z-index: 0;
 }
 
 /* support us section end */
@@ -469,7 +465,7 @@ iframe {
   position: static;
 }
 
-.footer-div h3 {
+.footer-div .h3 {
   font-size: 24px;
   line-height: 140%;
   margin-bottom: 20px;
@@ -495,10 +491,8 @@ iframe {
 }
 
 .footer-div .icons {
-  -moz-box-align: stretch;
   align-items: stretch;
   background: transparent none repeat scroll 0% 0%;
-  box-shadow: none;
   box-sizing: border-box;
   display: flex;
   flex: 0 1 100%;
@@ -553,6 +547,253 @@ iframe {
   margin: 10px 0;
 }
 
+/* sponsors end */
+
+/* Digitalents page start here */
+
+.main-page {
+  display: flex;
+  flex: 1 0 auto;
+  flex-direction: column;
+  margin: auto;
+  -webkit-box-flex: 1;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.digitalent-section {
+  display: flex;
+  -webkit-box-pack: center;
+  justify-content: center;
+  width: 100%;
+  padding: 50px 20px;
+  position: relative;
+  box-shadow: none;
+  background: none;
+  z-index: 1;
+  flex: 0 0 auto;
+}
+
+.digitalent-class {
+  display: flex;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+  width: 100%;
+  max-width: 1280px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin: auto;
+}
+
+.digi-class {
+  -webkit-box-align: center;
+  align-items: center;
+  box-shadow: none;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  -webkit-box-flex: 0;
+  height: auto;
+  -webkit-box-pack: start;
+  justify-content: flex-start;
+  max-height: none;
+  max-width: none;
+  width: 100%;
+  z-index: 0;
+  position: static;
+  background: none;
+  flex: 0 1 100%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: auto;
+}
+
+.digi-head {
+  font-size: 36px;
+  line-height: 120%;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 700;
+  color: rgb(28, 34, 148);
+  text-align: left;
+  max-width: none;
+}
+
+.digi-para {
+  color: rgb(45, 48, 55);
+  text-align: center;
+  max-width: 550px;
+  line-height: 160%;
+  font-size: 16px;
+  font-family: "Space Mono", monospace;
+  font-weight: 300;
+}
+
+.digi-div {
+  -webkit-box-align: stretch;
+  align-items: stretch;
+  box-shadow: none;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  -webkit-box-flex: 0;
+  height: auto;
+  -webkit-box-pack: center;
+  justify-content: center;
+  max-height: none;
+  max-width: none;
+  width: 100%;
+  z-index: 0;
+  position: static;
+  background: none;
+  flex: 0 1 100%;
+  margin-top: 20px;
+}
+
+.track-section {
+  display: flex;
+  -webkit-box-pack: center;
+  justify-content: center;
+  width: 100%;
+  padding: 50px 20px;
+  position: relative;
+  box-shadow: none;
+  background: rgb(248, 249, 252);
+  z-index: 1;
+  flex: 0 0 auto;
+  margin-bottom: 50px;
+  padding-top: 20px;
+}
+
+.track-div {
+  display: flex;
+  flex-direction: row;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+  width: 100%;
+  max-width: 1280px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin: auto;
+  flex-wrap: wrap;
+}
+
+.two-tracks {
+  font-size: 24px;
+  line-height: 140%;
+  margin-bottom: 20px;
+  text-transform: none;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 700;
+  color: rgb(74, 80, 187);
+  text-align: center;
+  max-width: none;
+}
+
+.track-box {
+  width: 100%;
+  display: flex;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.track-text {
+  width: 45%;
+  display: flex;
+  flex-direction: column;
+  box-shadow: rgb(0 0 0 / 8%) 5px 5px 53px;
+  padding: 40px 50px;
+  margin-bottom: 50px;
+}
+
+.track-text:first-child {
+  margin-bottom: 50px;
+}
+
+.track-head {
+  font-size: 20px;
+  line-height: 140%;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 700;
+  color: rgb(28, 34, 148);
+  text-align: left;
+  max-width: none;
+}
+
+.track-para {
+  color: rgb(45, 48, 55);
+  text-align: left;
+  max-width: none;
+  line-height: 160%;
+  font-size: 16px;
+  font-family: "Space Mono", monospace;
+  font-weight: 300;
+}
+
+.apply-section {
+  display: table-row;
+  justify-content: space-around;
+  grid-column: column;
+  box-sizing: border-box;
+  font-family: "Space Mono", monospace;
+  vertical-align: baseline;
+  padding: 80px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  border: none;
+}
+
+.apply-program {
+  color: rgb(45, 48, 55);
+  text-align: left;
+  max-width: 470px;
+  line-height: 160%;
+  font-size: 18px;
+  font-family: "Space Mono", monospace;
+  font-weight: 300;
+}
+
+.apply-section h1 {
+  color: rgb(28, 34, 148);
+  font-weight: 800;
+  font-size: 17px;
+  font-family: "Work Sans", sans-serif;
+}
+
+.digi-button {
+  display: inline-flex;
+  font-size: 12px;
+  line-height: 160%;
+  text-decoration: none;
+  background-color: rgb(74, 80, 187);
+  color: white;
+  font-weight: 600;
+  border: 1px solid transparent;
+  box-sizing: border-box;
+  padding: 10px 20px;
+  cursor: pointer;
+  text-transform: uppercase;
+  -webkit-box-align: center;
+  align-items: center;
+  font-family: "Work Sans", sans-serif;
+}
+
+.apply-section img {
+  width: 600px;
+  justify-self: flex-end;
+}
+
+/* Digitalents page end here */
+
 /* footer */
 .footer-div a {
   color: rgb(45, 48, 55);
@@ -606,6 +847,7 @@ iframe {
 }
 
 /* sponsor end */
+
 
 /* about page */
 .about-title {
@@ -715,4 +957,75 @@ iframe {
 .graduate {
   height: auto;
   width: 100%;
+
+/* volunteer */
+
+.volunteer {
+  max-width: 550px;
+  justify-content: center;
+  align-items: center;
+  font-family: "Space Mono", monospace;
+}
+
+.main-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: baseline;
+  padding: 45px;
+  background: rgb(248, 249, 252);
+  height: fit-content;
+}
+
+.main-container h2,
+b,
+.cards h2,
+h3 {
+  color: #1c2294;
+}
+
+.sub-container {
+  display: flex;
+  flex-direction: column;
+  width: 70%;
+}
+
+.sub-container div {
+  display: flex;
+  flex-direction: row;
+  margin: 20px;
+  font: 16px "space mono", monospace;
+}
+
+.sub-container img {
+  margin: 10px 40px 0 0;
+}
+
+.testimony-container {
+  display: flex;
+  flex-direction: column;
+  padding: 50px 40px;
+}
+
+.cards-paragraph {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: flex-end;
+  margin: 50px 20px;
+}
+
+.cards {
+  box-shadow: rgb(0 0 0 / 8%) 0 0 53px;
+  padding: 30px;
+  width: 60%;
+  font: 16px "space mono", monospace;
+}
+
+.cards * {
+  margin-bottom: 10px;
+}
+
+.cards-paragraph img {
+  width: 600px;
 }
