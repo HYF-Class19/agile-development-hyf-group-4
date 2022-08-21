@@ -221,7 +221,7 @@ ul .navbar {
   font-size: x-large;
 }
 
-.programsection p b {
+b {
   color: rgb(74, 80, 187);
   font-weight: bold;
 }
@@ -465,7 +465,7 @@ iframe {
   position: static;
 }
 
-.footer-div h3 {
+.footer-div .h3 {
   font-size: 24px;
   line-height: 140%;
   margin-bottom: 20px;
