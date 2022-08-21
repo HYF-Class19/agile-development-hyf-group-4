@@ -607,7 +607,7 @@ iframe {
 
 /* sponsor end */
 
-/* about page*/
+/* about page */
 .about-title {
   color: #4f7ac1;
   font: 30px "work Sans", sans-serif;
@@ -617,11 +617,11 @@ iframe {
   align-content: center;
   width: 100%;
   max-width: 1280px;
-  padding: 10px 0px;
+  padding: 10px 0;
 }
 
 .about-descriptions {
-  margin: 18px 0px 0px;
+  margin: 18px 0 0;
   padding: 10px;
   display: flex;
   color: #1c3fa8;
@@ -659,9 +659,10 @@ iframe {
   display: flex;
   flex-direction: column;
   padding: 40px 50px;
-  box-shadow: rgb(0 0 0 / 8%) 0px 0px 53px;
+  box-shadow: rgb(0 0 0 / 8%) 0 0 53px;
   border-radius: 10px;
 }
+
 .mission-value img {
   width: 70px;
   height: 70px;
@@ -677,16 +678,19 @@ iframe {
   color: #1c3fa8;
   text-align: left;
 }
+
 .mission-value p {
   color: rgb(45, 48, 55);
   font: 16px "Space Mono", monospace;
   text-align: justify;
   line-height: 1.5;
 }
+
 .history-container {
   display: flex;
   flex-direction: row;
 }
+
 .history-container div {
   width: 50%;
   margin: 20px;
@@ -695,19 +699,19 @@ iframe {
 }
 
 .history-hyf h2 {
-  font: 20px "work Sans", sans-serif;
+  font: 20px 700 "work Sans", sans-serif;
   line-height: 140%;
   margin-bottom: 20px;
-  font-weight: 700;
   color: #1c3fa8;
 }
+
 .history-hyf p {
   color: rgb(45, 48, 55);
-  line-height: 160%;
   font: 16px "Space Mono", monospace;
   line-height: 1.5;
   text-align: justify;
 }
+
 .graduate {
   height: auto;
   width: 100%;
